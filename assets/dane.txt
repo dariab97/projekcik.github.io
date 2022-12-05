@@ -1,0 +1,70 @@
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek Lipowiec',
+    'POINT(50.076944 19.444722)',
+    'wieœ Babice',
+    'Zamek Lipowiec to ruiny zamku biskupów krakowskich, le¿¹ce na Jurze Krakowsko-Czêstochowskiej. Wybudowany zosta³ w systemie tzw. Orlich Gniazd, we wsi Babice w powiecie chrzanowskim, w województwie ma³opolskim. Najstarsze fragmenty tej budowli powsta³y w XIII wieku. Zamek zlokalizowany jest na wapiennym wzgórzu (362 m n.p.m.)	 bêd¹cym czêœci¹ Garbu Tenczyñskiego, na terenie rezerwatu przyrody „Lipowiec”.',
+    'https://pl.wikipedia.org/wiki/Zamek_Lipowiec');
+
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek w B¹kowej Górze',
+    'POINT(51.139833 19.860333)',
+    'wieœ B¹kowa Góra',
+    'Zamek zosta³ wybudowany w XV wieku przez Zbigniewa B¹ka herbu Zadora, który s³u¿y³ na dworze W³adys³awa Jagie³³y. Budowla po³o¿ona jest we wsi B¹kowa Góra w powiecie piotrkowskim, w województwie ³ódzkim. Murowany dwór usytuowano na cyplu wzniesienia, na miejscu drewnianego gródka, wewn¹trz dookolnego wa³u. Obecny stan to dobrze zakonserwowane, wznosz¹c siê na wysokoœæ kilku metrów grube mury, w wy¿szych partiach po rekonstrukcji. Ruinê mo¿na obejrzeæ od zewn¹trz.',
+    'https://pl.wikipedia.org/wiki/Zamek_w_B¹kowej_Górze');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek w Baranowie Sandomierskim',
+    'POINT(50.504944 21.518056)',
+    'Baranów Sandomierski',
+    'PóŸnorenesansowy zamek w Baranowie Sandomierskim po³o¿ony jest w nizinie dolnej Wis³y, w powiecie tarnobrzeskim, w województwie podkarpackim. Budowla, bêd¹ca siedzib¹ rodu Leszczyñskich zbudowana zosta³am wed³ug projektu Santi Gucciego w latach 1591-1606. Ze wzglêdu na swoje niezwyk³e podobieñstwo nazywana jest tak¿e „Ma³ym Wawelem”. Zamek otoczony jest 16-hektarowym obszarem parkowym, w którym znajduj¹ siê ogrody w stylu angielskim, francuskim oraz w³oskim.',
+    'https://pl.wikipedia.org/wiki/Zamek_w_Baranowie_Sandomierskim');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek w Barczewie',
+    'POINT(53.828889 20.691667)',
+    'Barczewo',
+    'Nieistniej¹cy ju¿ zamek biskupi, który znajdowa³ siê w Barczewie, w powiecie olsztyñskim, w województwie warmiñsko-mazurskim. Budowlê poleci³ zbudowaæ w 1364 roku biskup Jan II Styprock. Zamek znajdowa³ siê w naro¿u pó³nocno-wschodnim murów obronnych otaczaj¹cych miasto. Zamek by³ kilkukrotnie odbudowywany. Po raz pierwszy zniszczono go w 1414 roku w czasie Wojny g³odowej, a nastêpnie sp³on¹³ w 1594 roku. Ostatecznie ponowny po¿ar w 1798 roku dokona³ tak rozleg³ych zniszczeñ, ¿e podjêto decyzjê o czêœciowej rozbiórce zamku. Pozosta³oœci zamku znajduj¹ siê w centrum miasta przy ulicy Nowowiejskiego 9.',
+    'https://pl.wikipedia.org/wiki/Zamek_w_Barczewie');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek w Malborku',
+    'POINT(54.040064 19.028394)',
+    'Malbork',
+    'Zamek w Malborku jest najpotê¿niejsz¹ twierdz¹ œredniowiecznej Europy. Budowê zamku rozpoczêli Krzy¿acy w XIII w. Przez nastêpne stulecia, kiedy Malbork sta³ siê stolic¹ zakonu krzy¿ackiego, twierdza znacznie siê powiêkszy³a poprzez dodanie do niej Wielkiego Refektarzu oraz Pa³acu Wielkiego Mistrza. Zamek w Malborku to imponuj¹ce mury z czerwonej ceg³y jak równie¿ pas murów obronnych z wie¿ami i bramami.',
+    'https://www.polska.travel/pl/poznaj-atrakcje-i-zabytki/dziedzictwo-unesco/zamek-krzyzacki-w-malborku');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek Œwiny',
+    'POINT(50.938889 16.111944)',
+    'wieœ Œwiny',
+    'Zamek Œwidny pierwotnie by³ grodem, nastêpnie zamekiem obronnym, a od pocz¹tków XVII w. sta³ siê zamkiem mieszkalnym na Œl¹sku we wsi Œwiny ko³o Bolkowa, na Pogórzu Kaczawskim w Sudetach. Zamek Œwiny jest jednym z najstarszych na Szlaku Zamków Piastowskich. Wed³ug legendy mia³by byæ po³¹czony podziemnym przejœciem ze znajduj¹cym siê kilka kilometrów dalej zamkiem w Bolkowie. Tunel istnia³ do 1927 r.',
+    'https://klubpodroznikow.com/relacje/polska/polska-zamki-palace/1763-zamek-swiny');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek w Dubiecku',
+    'POINT(49.821163 22.392929)',
+    'Dubiecko',
+    'Zamek szlachecki w Dubiecku, czyli pa³ac klasycystyczny zbudowany przez Krasickich w obecnej formie w latach 1771–1790. Pa³ac zbudowano w miejscu zamku Stadnickich z XVI-wieku, który by³ otoczonym fos¹ czworobocznym za³o¿eniem z dziedziñcem. Nastêpnie zamek zosta³ przebudowany na barokowy pa³ac, w którym w 1735 roku urodzi³ siê Ignacy Krasicki, póŸniejszy poeta i biskup warmiñski. W 1909 r. powsta³a przy pa³acu neogotycka dobudówka. Obecnie w pa³acu mieœcie siê hotel i restauracja.',
+    'https://klubpodroznikow.com/relacje/polska/polska-zamki-palace/2954-zamek-szlachecki-w-dubiecku');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek w Wiœniczu',
+    'POINT(49.917222 20.469444)',
+    'Wiœnicz',
+    'Zamek szlachecki w Dubiecku, czyli pa³ac klasycystyczny zbudowany przez Krasickich w obecnej formie w latach 1771–1790. Pa³ac zbudowano w miejscu zamku Stadnickich z XVI-wieku, który by³ otoczonym fos¹ czworobocznym za³o¿eniem z dziedziñcem. Nastêpnie zamek zosta³ przebudowany na barokowy pa³ac, w którym w 1735 roku urodzi³ siê Ignacy Krasicki, póŸniejszy poeta i biskup warmiñski. W 1909 r. powsta³a przy pa³acu neogotycka dobudówka. Obecnie w pa³acu mieœcie siê hotel i restauracja.',
+    'https://klubpodroznikow.com/relacje/polska/polska-zamki-palace/2954-zamek-szlachecki-w-dubiecku');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek Królewski w Poznaniu',
+    'POINT(52.409167 16.931111)',
+    'Poznañ',
+    'Zamek Królewski w Poznaniu to najstarsza zachowana rezydencja królewska w Polsce. Budowla wzniesiona zosta³a na Wzgórzu Przemys³a w XIII wieku, najpierw jako wie¿a mieszkalna dla Przemys³a I, a póŸniej rozbudowana przez jego syna Przemys³a II - pierwszego króla Polski po rozbiciu dzielnicowym.',
+    'https://klubpodroznikow.com/relacje/polska/polska-zamki-palace/2954-zamek-szlachecki-w-dubiecku');
+
+INSERT INTO "Data" (object_name, object_wsp, object_location, object_description, object_sources) 
+    Values('Zamek Królewski w Warszawie',
+    'POINT(52.409167 16.931111)',
+    'Warszawa',
+    'Zamek Królewski w Poznaniu to najstarsza zachowana rezydencja królewska w Polsce. Budowla wzniesiona zosta³a na Wzgórzu Przemys³a w XIII wieku, najpierw jako wie¿a mieszkalna dla Przemys³a I, a póŸniej rozbudowana przez jego syna Przemys³a II - pierwszego króla Polski po rozbiciu dzielnicowym.',
+    'https://klubpodroznikow.com/relacje/polska/polska-zamki-palace/2954-zamek-szlachecki-w-dubiecku');
